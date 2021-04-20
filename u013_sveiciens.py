@@ -6,3 +6,6 @@ Piemēram, ja ievadīts ir vārds "Māris", tad tiek izvadīts:
 "Labrīt, Māris!"
 Pārbaudiet programmas darbību ar dažādiem ievaddatiem.
 """
+vards=input("Ievadi savu vārdu: ")
+
+print("Labrīt, ",vards,"!")
