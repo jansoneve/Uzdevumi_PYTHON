@@ -9,4 +9,4 @@ sk2=float(input("Ievadi 2.sk:"))
 
 summa=sk1+sk2
 
-print(summa)
+print("Summa ir" ,summa)
