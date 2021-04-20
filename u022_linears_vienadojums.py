@@ -1,5 +1,12 @@
 def vienadojums(x, a, b):
-    """
+    vienadojums=a*x+b
+    return vienadojums
+rez=vienadojums(1,1,1.1)
+rez=vienadojums(3,1,-2)
+rez=vienadojums(2.0,2,-5)
+print(rez)
+    
+"""
     Funkcija aprēķina lineāra vienādojuma y = a * x + b vērtību
     pie dotas x vērtības, ja doti koeficienti a un b.
     Vērtības funkcijai tiks dotas secībā x, a, b.
